@@ -1,0 +1,20 @@
+.formulario{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    text-align: justify;
+
+    
+} 
+.form-interno{
+    background-color: rgb(190, 236, 206);
+ 
+    border: 2px solid black;
+   
+}
+.formulario input{
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+}
